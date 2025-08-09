@@ -1,3 +1,8 @@
+# To download the package 
+```
+docker pull ghcr.io/dhanvanth-dev/ros2_dev_stonefish_dep:latest
+```
+
 # Understanding Stonefish Underwater Simulation Code
 
 ## Overview
